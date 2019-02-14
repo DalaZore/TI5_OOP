@@ -1,0 +1,5 @@
+D:\Rider\Aufgaben\Calculator\bin\Debug\Calculator.exe
+D:\Rider\Aufgaben\Calculator\bin\Debug\Calculator.pdb
+D:\Rider\Aufgaben\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Rider\Aufgaben\Calculator\obj\Debug\Calculator.exe
+D:\Rider\Aufgaben\Calculator\obj\Debug\Calculator.pdb

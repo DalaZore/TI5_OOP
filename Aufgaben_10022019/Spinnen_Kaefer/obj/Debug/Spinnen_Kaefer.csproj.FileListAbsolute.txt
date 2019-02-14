@@ -1,0 +1,5 @@
+D:\Rider\Aufgaben\Spinnen_Kaefer\bin\Debug\Spinnen_Kaefer.exe
+D:\Rider\Aufgaben\Spinnen_Kaefer\bin\Debug\Spinnen_Kaefer.pdb
+D:\Rider\Aufgaben\Spinnen_Kaefer\obj\Debug\Spinnen_Kaefer.csprojResolveAssemblyReference.cache
+D:\Rider\Aufgaben\Spinnen_Kaefer\obj\Debug\Spinnen_Kaefer.exe
+D:\Rider\Aufgaben\Spinnen_Kaefer\obj\Debug\Spinnen_Kaefer.pdb

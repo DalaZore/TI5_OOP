@@ -1,0 +1,5 @@
+D:\Rider\Aufgaben\NIMM-Spiel\bin\Debug\NIMM_Spiel.exe
+D:\Rider\Aufgaben\NIMM-Spiel\bin\Debug\NIMM_Spiel.pdb
+D:\Rider\Aufgaben\NIMM-Spiel\obj\Debug\NIMM-Spiel.csprojResolveAssemblyReference.cache
+D:\Rider\Aufgaben\NIMM-Spiel\obj\Debug\NIMM_Spiel.exe
+D:\Rider\Aufgaben\NIMM-Spiel\obj\Debug\NIMM_Spiel.pdb

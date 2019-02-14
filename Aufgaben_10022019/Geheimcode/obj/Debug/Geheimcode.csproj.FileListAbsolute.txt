@@ -1,0 +1,5 @@
+D:\Rider\Aufgaben\Geheimcode\bin\Debug\Geheimcode.exe
+D:\Rider\Aufgaben\Geheimcode\bin\Debug\Geheimcode.pdb
+D:\Rider\Aufgaben\Geheimcode\obj\Debug\Geheimcode.csprojResolveAssemblyReference.cache
+D:\Rider\Aufgaben\Geheimcode\obj\Debug\Geheimcode.exe
+D:\Rider\Aufgaben\Geheimcode\obj\Debug\Geheimcode.pdb
