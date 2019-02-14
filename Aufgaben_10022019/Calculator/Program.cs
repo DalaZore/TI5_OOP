@@ -11,18 +11,8 @@ namespace Calculator
         
         static void Main(string[] args)
         {
-            if (args.Length == 0)
-            {
-                double firstNumber = SetNumber("Type you first number : ");
-                double secondNumber = SetNumber("Type you second number: ");
-                string stringOperation = SetOperation("Enter the operation + (addition), - (subtraction), * (multiplication), / (division), ^ (exponent) or % (modulo) :");
-
-                double result = Calculate(firstNumber, stringOperation, secondNumber);
-    
-                Console.WriteLine("Result of {0} {1} {2} = {3}", firstNumber, stringOperation, secondNumber, result);
-                Console.ReadKey();
-            }
-            else
+            
+            if (args.Length > 0)
             {
                 int i = 0;
                 string stringArgsOperation = "";
@@ -33,7 +23,7 @@ namespace Calculator
                 {    
                     if (i == 0)
                     {
-                       firstArgsNumber = SetArgsNumber(arguments);
+                        firstArgsNumber = SetArgsNumber(arguments);
                     }
                     else if (i == 1)
                     {
@@ -49,7 +39,25 @@ namespace Calculator
                 double resultArgs = CalculateArgs(firstArgsNumber, stringArgsOperation, secondArgsNumber);
                 Console.WriteLine("Result of {0} {1} {2} = {3}", firstArgsNumber, stringArgsOperation, secondArgsNumber, resultArgs);
                 Console.ReadKey();
+            }
+            else
+            {
                 
+                while (true)
+                {
+                    Console.WriteLine("Enter q or quit to quit the Calculator!");
+
+                    double firstNumber = SetNumber("Type you first number : ");
+                    double secondNumber = SetNumber("Type you second number: ");
+                    string stringOperation =
+                        SetOperation(
+                            "Enter the operation + (addition), - (subtraction), * (multiplication), / (division), ^ (exponent) or % (modulo) :");
+
+                    double result = Calculate(firstNumber, stringOperation, secondNumber);
+
+                    Console.WriteLine("Result of {0} {1} {2} = {3}", firstNumber, stringOperation, secondNumber,
+                        result);
+                }
             }
         }
     
@@ -59,13 +67,18 @@ namespace Calculator
             double parse;
             Console.Write(outputText);
             string tempInput = Console.ReadLine();
-            while (!double.TryParse(tempInput, out parse))
+            if (tempInput.ToLower() == "q" || tempInput.ToLower() == "quit")
             {
-                Console.WriteLine("Incorrect input !");
-                Console.Write(outputText);
-                tempInput = Console.ReadLine();
+                Environment.Exit(0);
+                return 0;
             }
-            return double.Parse(tempInput);
+                while (!double.TryParse(tempInput, out parse))
+                {
+                    Console.WriteLine("Incorrect input !");
+                    Console.Write(outputText);
+                    tempInput = Console.ReadLine();
+                }
+                return double.Parse(tempInput);
         }
         
         private static double SetArgsNumber(string arguments)

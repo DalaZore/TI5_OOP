@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7374f273-23af-4122-8dec-b098b181b634" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgaben.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +20,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spinnen_Kaefer/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Calculator/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="323">
+              <caret line="72" column="24" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="24" />
               <folding>
-                <marker date="1550138586046" expanded="false" signature="6:68" ph="..." />
-                <marker date="1550138586046" expanded="true" signature="94:1685" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="123:1683" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="176:1677" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="578:1653" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="672:970" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="823:948" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="1011:1309" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="1162:1287" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="1361:1461" ph="{...}" />
-                <marker date="1550138586046" expanded="true" signature="1482:1639" ph="{...}" />
+                <marker date="1550139568204" expanded="false" signature="6:32" ph="..." />
+                <marker date="1550139568204" expanded="true" signature="54:6531" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="83:6529" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="236:2194" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="292:1345" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="538:1054" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="592:704" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="741:860" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="897:1011" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="1362:2184" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="1422:2170" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="2267:2877" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="2470:2561" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="2624:2819" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="2948:3246" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="3085:3192" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="3310:3377" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="3444:3808" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="3593:3768" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="3882:4134" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="3983:4094" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="4256:5371" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="4342:5316" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="5485:6516" ph="{...}" />
+                <marker date="1550139568204" expanded="true" signature="5563:6465" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -57,10 +70,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Calculator/Program.cs" />
         <option value="$PROJECT_DIR$/NIMM-Spiel/Program.cs" />
         <option value="$PROJECT_DIR$/Geheimcode/Program.cs" />
         <option value="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" />
+        <option value="$PROJECT_DIR$/Calculator/Program.cs" />
       </list>
     </option>
   </component>
@@ -76,8 +89,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -88,7 +101,7 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Aufgaben" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Spinnen_Kaefer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Calculator" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -119,14 +132,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculator/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Spinnen_Kaefer/Spinnen_Kaefer.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Calculator/Calculator.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -149,11 +162,12 @@
       <updated>1550070982000</updated>
       <workItem from="1550070983132" duration="7130000" />
       <workItem from="1550138402578" duration="193000" />
+      <workItem from="1550138765771" duration="815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7323000" />
+    <option name="totallyTimeSpent" value="8138000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,7 +181,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09968017" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10074627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -225,38 +239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <marker date="1550071091928" expanded="false" signature="6:32" ph="..." />
-            <marker date="1550071091928" expanded="true" signature="54:6116" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="83:6114" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="236:1975" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="280:879" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="896:1965" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="1142:1657" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="1196:1307" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="1344:1463" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="1500:1614" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="2048:2462" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="2233:2408" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="2533:2831" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="2670:2777" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="2895:2962" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="3029:3393" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="3178:3353" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="3467:3719" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="3568:3679" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="3841:4956" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="3927:4901" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="5070:6101" ph="{...}" />
-            <marker date="1550071091928" expanded="true" signature="5148:6050" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NIMM-Spiel/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -287,7 +269,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spinnen_Kaefer/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="357">
           <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding>
             <marker date="1550138586046" expanded="false" signature="6:68" ph="..." />
@@ -301,6 +283,40 @@
             <marker date="1550138586046" expanded="true" signature="1162:1287" ph="{...}" />
             <marker date="1550138586046" expanded="true" signature="1361:1461" ph="{...}" />
             <marker date="1550138586046" expanded="true" signature="1482:1639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="72" column="24" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <marker date="1550139568204" expanded="false" signature="6:32" ph="..." />
+            <marker date="1550139568204" expanded="true" signature="54:6531" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="83:6529" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="236:2194" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="292:1345" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="538:1054" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="592:704" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="741:860" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="897:1011" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="1362:2184" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="1422:2170" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="2267:2877" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="2470:2561" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="2624:2819" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="2948:3246" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="3085:3192" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="3310:3377" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="3444:3808" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="3593:3768" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="3882:4134" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="3983:4094" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="4256:5371" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="4342:5316" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="5485:6516" ph="{...}" />
+            <marker date="1550139568204" expanded="true" signature="5563:6465" ph="{...}" />
           </folding>
         </state>
       </provider>

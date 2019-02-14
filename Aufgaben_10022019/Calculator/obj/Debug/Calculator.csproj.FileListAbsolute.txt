@@ -3,3 +3,9 @@ D:\Rider\Aufgaben\Calculator\bin\Debug\Calculator.pdb
 D:\Rider\Aufgaben\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 D:\Rider\Aufgaben\Calculator\obj\Debug\Calculator.exe
 D:\Rider\Aufgaben\Calculator\obj\Debug\Calculator.pdb
+D:\GitHub\TI5_OOP\Aufgaben_10022019\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\GitHub\TI5_OOP\Aufgaben_10022019\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\TI5_OOP\Aufgaben_10022019\Calculator\obj\Debug\Calculator.exe
+D:\GitHub\TI5_OOP\Aufgaben_10022019\Calculator\obj\Debug\Calculator.pdb
+D:\GitHub\TI5_OOP\Aufgaben_10022019\Calculator\bin\Debug\Calculator.exe
+D:\GitHub\TI5_OOP\Aufgaben_10022019\Calculator\bin\Debug\Calculator.pdb
