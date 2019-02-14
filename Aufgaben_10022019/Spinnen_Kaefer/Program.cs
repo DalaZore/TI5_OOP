@@ -13,37 +13,6 @@ namespace Spinnen_Kaefer
             Console.Write("Wieviele Beine sind in der Spinnen und kaeferschachtel: ");
             int SumBeine = Int32.Parse(Console.ReadLine());
 
-            
-            if (SumBeine % 8 == 0 && SumBeine % 6 != 0)
-            {
-                int anzSpinnen = SumBeine / 8;
-                int anzKaefer = 0;    
-                Console.WriteLine("In der Schachtel befinden sich " + anzSpinnen + " Spinnen und " + anzKaefer+" Kaefer");
-                
-                done = 1;
-            }
-            else if (SumBeine % 8 != 0 && SumBeine % 6 == 0)
-            {
-                int anzSpinnen = 0;
-                int anzKaefer = SumBeine / 6;
-                Console.WriteLine("In der Schachtel befinden sich " + anzSpinnen + " Spinnen und " + anzKaefer+" Kaefer");
-                
-                done = 1;
-            }
-            else if (SumBeine % 8 == 0 && SumBeine % 6 == 0)
-            {
-                int anzSpinnen = SumBeine / 8;
-                int anzKaefer = 0;
-                Console.WriteLine("In der Schachtel befinden sich " + anzSpinnen + " Spinnen und " + anzKaefer +" Kaefer");
-                Console.WriteLine("oder");
-                anzSpinnen = 0;
-                anzKaefer = SumBeine / 6;
-                Console.WriteLine("In der Schachtel befinden sich " + anzSpinnen + " Spinnen und " + anzKaefer +" Kaefer");
-                
-                done = 1;
-            }
-            else
-            {
                 int anzSpinnen = 0;
                 int anzKaefer = 0;
                 while (SumBeine > 0)
@@ -69,15 +38,14 @@ namespace Spinnen_Kaefer
                             break;
                         }
                     }
-                }
-
+                    
                 if (done != 1)
                 {
                     Console.WriteLine("Es gibt keine Lösung!");
                 }
                 else
                 {
-                    Console.WriteLine("In der Schachtel befinden sich " + anzSpinnen + " Spinnen und " + anzKaefer +" Kaefer");
+                    Console.WriteLine("In der Schachtel befinden sich {0} Spinnen und {1} Kaefer",anzSpinnen,anzKaefer);
                 }
             }
 

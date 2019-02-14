@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7374f273-23af-4122-8dec-b098b181b634" name="Default Changelist" comment="" />
+    <list default="true" id="7374f273-23af-4122-8dec-b098b181b634" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aufgaben/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgaben.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Spinnen_Kaefer/obj/Debug/Spinnen_Kaefer.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,21 +19,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Geheimcode/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Spinnen_Kaefer/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding>
-                <marker date="1550080166495" expanded="true" signature="6:37" ph="..." />
-                <marker date="1550080166495" expanded="true" signature="178:1150" ph="{...}" />
-                <marker date="1550080166495" expanded="true" signature="208:440" ph="{...}" />
-                <marker date="1550080166495" expanded="true" signature="280:322" ph="{...}" />
-                <marker date="1550080166495" expanded="true" signature="374:434" ph="{...}" />
-                <marker date="1550080166495" expanded="true" signature="458:1148" ph="{...}" />
-                <marker date="1550080166495" expanded="true" signature="510:668" ph="{...}" />
-                <marker date="1550080166495" expanded="true" signature="709:1142" ph="{...}" />
+                <marker date="1550138586046" expanded="false" signature="6:68" ph="..." />
+                <marker date="1550138586046" expanded="true" signature="94:1685" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="123:1683" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="176:1677" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="578:1653" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="672:970" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="823:948" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="1011:1309" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="1162:1287" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="1361:1461" ph="{...}" />
+                <marker date="1550138586046" expanded="true" signature="1482:1639" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -31,20 +44,23 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Calculator/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aufgaben/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Geheimcode/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NIMM-Spiel/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Geheimcode/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Calculator/Program.cs" />
-        <option value="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" />
         <option value="$PROJECT_DIR$/NIMM-Spiel/Program.cs" />
         <option value="$PROJECT_DIR$/Geheimcode/Program.cs" />
+        <option value="$PROJECT_DIR$/Spinnen_Kaefer/Program.cs" />
       </list>
     </option>
   </component>
@@ -54,6 +70,7 @@
     <option name="width" value="3456" />
     <option name="height" value="1426" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -71,7 +88,7 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Aufgaben" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Geheimcode" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Spinnen_Kaefer" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -102,14 +119,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Geheimcode/bin/Debug/Geheimcode.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug/Spinnen_Kaefer.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Geheimcode/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spinnen_Kaefer/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Geheimcode/Geheimcode.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Spinnen_Kaefer/Spinnen_Kaefer.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -131,11 +148,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550070982000</updated>
       <workItem from="1550070983132" duration="7130000" />
+      <workItem from="1550138402578" duration="193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7130000" />
+    <option name="totallyTimeSpent" value="7323000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,42 +165,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="3456" height="1426" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09864546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09968017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32946634" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" weight="0.32946634" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32869297" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" weight="0.32946634" />
-      <window_info anchor="bottom" id="Build" weight="0.32869297" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32869297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32946634" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32946634" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32946634" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32869297" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -195,30 +213,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spinnen_Kaefer/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
-          <folding>
-            <marker date="1550074568157" expanded="true" signature="6:44" ph="..." />
-            <marker date="1550074568157" expanded="true" signature="94:2986" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="123:2984" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="176:2978" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="539:819" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="880:1156" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="1217:1735" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="1752:2954" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="1874:2623" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="1968:2266" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="2119:2244" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="2307:2605" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="2458:2583" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="2655:2755" ph="{...}" />
-            <marker date="1550074568157" expanded="true" signature="2776:2940" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Aufgaben/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -286,17 +280,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Geheimcode/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spinnen_Kaefer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding>
-            <marker date="1550080166495" expanded="true" signature="6:37" ph="..." />
-            <marker date="1550080166495" expanded="true" signature="178:1150" ph="{...}" />
-            <marker date="1550080166495" expanded="true" signature="208:440" ph="{...}" />
-            <marker date="1550080166495" expanded="true" signature="280:322" ph="{...}" />
-            <marker date="1550080166495" expanded="true" signature="374:434" ph="{...}" />
-            <marker date="1550080166495" expanded="true" signature="458:1148" ph="{...}" />
-            <marker date="1550080166495" expanded="true" signature="510:668" ph="{...}" />
-            <marker date="1550080166495" expanded="true" signature="709:1142" ph="{...}" />
+            <marker date="1550138586046" expanded="false" signature="6:68" ph="..." />
+            <marker date="1550138586046" expanded="true" signature="94:1685" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="123:1683" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="176:1677" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="578:1653" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="672:970" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="823:948" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="1011:1309" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="1162:1287" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="1361:1461" ph="{...}" />
+            <marker date="1550138586046" expanded="true" signature="1482:1639" ph="{...}" />
           </folding>
         </state>
       </provider>
